@@ -9,9 +9,9 @@ class="z-12"
 
 row, в якому вказуємо відступи у вкладених cols:
 
--- class="y-10"
+  class="y-10"
   
 cols:
 
----- class="x-3"   
----- class="x-9"
+    class="x-3"   
+    class="x-9"
