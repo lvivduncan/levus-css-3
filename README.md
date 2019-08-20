@@ -4,20 +4,11 @@
 12-колоночний grid, який можна динамічно міняти безпосередньо у html-шаблоні; x -- горизонталь, y -- вертикаль:
 
 container, в якому вказуємо кількість колонок, у даному випадку 12:
-div class="z-12"
+class="z-12"
 
 row, в якому вказуємо відступи у вкладених cols:
-  div class="y-10"
+--class="y-10"
   
 cols:
-    div class="x-3"
-      content
-    /div
-    div class="x-9"
-      content
-    /div
-
-  /div
-  
-/div
-
+----class="x-3"   
+----class="x-9"
